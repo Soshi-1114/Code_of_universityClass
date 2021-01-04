@@ -1,3 +1,3 @@
-# Code_university
+# University
 
 授業で作成したプログラムを記録として残します。
